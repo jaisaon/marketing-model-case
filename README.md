@@ -1,2 +1,5 @@
-# marketing-model-case
-Profit-oriented classification model for marketing campaign optimization
+marketing-campaign-profit-model/
+├── notebook/
+│   ├── marketing_campaign_model.ipynb
+│   └── marketing_campaign_model.html
+├── README.md
